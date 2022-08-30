@@ -1,4 +1,4 @@
-# <div align = 'center'> AFIRMAJOBS </div>
+# <div align = 'center'> BEAUTY SALON </div>
 <br>
 
 <br>
