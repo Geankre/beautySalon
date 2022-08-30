@@ -171,6 +171,7 @@ Para que fosse possível a execução desse projeto, foi necessário a utilizaç
 
  - [Dotenv-safe](https://www.npmjs.com/package/dotenv-safes) - Carrega variáveis de ambiente de um arquivo .env para process.env.
  <br>
+ 
  - [Bcrypt](https://www.npmjs.com/package/bcryptjs) - Método de criptografia do tipo hash para senhas baseado no Blowfish.
  <br>
 
